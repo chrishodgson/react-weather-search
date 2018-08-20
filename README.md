@@ -14,6 +14,8 @@ You can register your own api key at the Open Weather Map site `https://openweat
 
 ### Installing
 
+This assumes that `npm` is already installed. 
+
 ```
 > git clone https://github.com/chrishodgson/ReactReduxWeatherSearch.git
 > cd ReactReduxWeatherSearch
