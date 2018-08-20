@@ -22,7 +22,7 @@ You can register your own api key at the Open Weather Map site `https://openweat
 ```
 
 
-## Changing the Country for Weather Forecasts
+## Showing Weather Forecasts for a different country
 
 By default, it will search for weather forecasts in the UK, but you can easily change this by editing the `COUNTRY_CODE` in `src/actions/index.js`.
 You can find a list of the country codes at the Open Weather Map site by entering a city from that country  `https://openweathermap.org/city` 
