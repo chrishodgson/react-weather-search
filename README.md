@@ -5,12 +5,18 @@ Humidity charts along with a Google Map of the location.
 
 ## Getting Started
 
-Setup your API key, checkout this repo, install dependencies, then start the webpack process with the following:
+Setup your API keys, checkout this repo, install dependencies, then start the webpack process with the following:
 
-### Setting up your API Key
+### Setup your Open Weather Map API Key
 
 A default Open Weather Map API key is setup for this project. This should be changed by editing the `API_KEY` in `src/actions/index.js`.
 You can register your own api key at the Open Weather Map site `https://openweathermap.org/api` 
+
+### Setup your Google Maps API Key
+
+A default Google Maps API key is setup for this project. This should be changed by editing the 
+`script` tag pointing to `googleapis.com` in `index.html`. You can register your own api key at 
+the Google Maps Platform site `https://cloud.google.com/maps-platform` 
 
 ### Installing
 
